@@ -1,7 +1,20 @@
 {
-  "users": {6425866120},
+  "users": {
+    "123456789": {
+      "name": "کاربر اول",
+      "balance": 5,
+      "lastLearn": "Mon Jun 21 2026",
+      "totalLearns": 5
+    },
+    "987654321": {
+      "name": "کاربر دوم",
+      "balance": 3,
+      "lastLearn": "Mon Jun 21 2026",
+      "totalLearns": 3
+    }
+  },
   "stats": {
-    "totalUsers": 1,
-    "totalLearns": 1
+    "totalUsers": 2,
+    "totalLearns": 8
   }
 }
